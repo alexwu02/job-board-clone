@@ -1,6 +1,6 @@
-# Job Board
+# Job Board Clone
 
-##### Colin (m6z6r), Alex (t3x0n), Steven (t5e1u)
+##### Created by Alex Wu, Colin Chen, and Steven Huang
 #
 
 
